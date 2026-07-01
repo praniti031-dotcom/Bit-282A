@@ -1,2 +1,2 @@
 # Bit-282A
-Codeforces problem
+Solution to Codeforces problem
